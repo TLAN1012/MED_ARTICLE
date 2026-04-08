@@ -1,6 +1,19 @@
 ---
 title: 小腦萎縮症：當身體與平衡長期協商
 category: 神經科疾病
+tags:
+- 小腦萎縮症
+- 小腦
+- 步態不穩
+- 復健
+- 抗痙攣藥
+- 基因檢測
+wp_post_id: 1239
+wp_status: draft
+wp_media_cache:
+  spinocerebellar_ataxia_overview.jpg:
+    id: 1238
+    url: https://neuro-rtms.tw/wp-content/uploads/2026/04/spinocerebellar_ataxia_overview-scaled.jpg
 ---
 
 # 小腦萎縮症：當身體與平衡長期協商
