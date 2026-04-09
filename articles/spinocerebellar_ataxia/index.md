@@ -14,6 +14,7 @@ wp_media_cache:
   spinocerebellar_ataxia_overview.jpg:
     id: 1238
     url: https://neuro-rtms.tw/wp-content/uploads/2026/04/spinocerebellar_ataxia_overview-scaled.jpg
+wp_public_url: https://neuro-rtms.tw/?p=1239
 ---
 
 # 小腦萎縮症：當身體與平衡長期協商

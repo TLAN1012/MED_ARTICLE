@@ -1,6 +1,20 @@
 ---
 title: 成年後才出現的小腦萎縮：當問題不是來自基因
 category: 神經科疾病
+tags:
+- 小腦萎縮
+- 多系統退化症
+- 步態不穩
+- 自律神經
+- 復健
+- 無麩質飲食
+wp_post_id: 1241
+wp_status: draft
+wp_public_url: https://neuro-rtms.tw/?p=1241
+wp_media_cache:
+  sporadic_cerebellar_atrophy_overview.jpg:
+    id: 1240
+    url: https://neuro-rtms.tw/wp-content/uploads/2026/04/sporadic_cerebellar_atrophy_overview-scaled.jpg
 ---
 
 # 成年後才出現的小腦萎縮：當問題不是來自基因
