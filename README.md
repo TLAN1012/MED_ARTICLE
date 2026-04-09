@@ -9,3 +9,4 @@
 ## 文章列表
 
 - [不寧腿症候群：當雙腿不讓你好好睡覺](articles/restless_legs_syndrome/index.md)
+- [中風後的失語症：當腦中的「語言地圖」受了傷](articles/post_stroke_aphasia/index.md)
